@@ -5,3 +5,5 @@ Criar um sistema bancário com as operações: depositar, sacar e visualizar o e
 
 ### Preview:
 ![sis-bancario](https://github.com/user-attachments/assets/6f37ad07-9b45-42a8-8185-50d1e98c6f79)
+
+Ref.: [Trilha de Python DIO](https://github.com/digitalinnovationone/trilha-python-dio)
